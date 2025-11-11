@@ -195,9 +195,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Institution**: Your University/Organization
+- **Author**: Sumit Rathi
+- **Email**: rathisumit567@gmail.com
+- **Institution**: Ajeenkya DY Patil University
 
 ---
 
