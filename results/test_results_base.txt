@@ -1,0 +1,20 @@
+======================================================================
+ TEST SET RESULTS - BASE MODEL
+ CONTAMINATION-AWARE WASTE CLASSIFIER
+======================================================================
+
+CATEGORY CLASSIFICATION:
+  Accuracy: 64.29%
+  Test samples: 4808
+
+CONTAMINATION DETECTION:
+  Accuracy:  84.21%
+  Precision: 72.45%
+  Recall:    82.81%
+  F1-Score:  77.28%
+
+======================================================================
+Model: BASE MobileNetV2
+Dense units: 128, Dropout: 0.3
+Test directory: final_dataset\test
+======================================================================
